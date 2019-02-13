@@ -1,6 +1,6 @@
 # Home_Serveillance_Action_Detection
 ```
-Created for "KOTRSI EVENT PLANNING STORE"
+Created for "KOTRSI EVENT PLANNING STORE". The script was originally developped for Raspberry Pi environment. I modified the code in order to run it without the VideoCapture of Rasberry Camera.
 ```
 # Project schema :
 ```
