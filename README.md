@@ -1,16 +1,16 @@
 # Home_Serveillance_Action_Detection
-Created for "KOTRSI EVENT PLANNING STORE"
+ Created for "KOTRSI EVENT PLANNING STORE"
 
-Project schema : 
+# Project schema : 
 |--- motion_detector.py : contains all the script logic.
 |--- conf.json : contains the configuration of the project, you can add you DropBox store application token in it.
 |--- image_upload_config
 |    |--- __init__.py
 |    |--- tempimage.py : script that handles the uploading of images toward your specified directory on DropBox.
 
-You can run the script by running : python motion_detector.py --config conf.json
+You can run the script by running : # python motion_detector.py --config conf.json
 
-The Conf.Json configuration is detailed below : 
+# The Conf.Json configuration is detailed below : 
     show_video : A boolean indicating whether or not the video stream from the Raspberry Pi should be displayed to our screen.
     use_dropbox : Boolean indicating whether or not the Dropbox API integration should be used.
     dropbox_access_token : Your public Dropbox API key.
