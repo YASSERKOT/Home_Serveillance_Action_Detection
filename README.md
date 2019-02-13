@@ -4,17 +4,13 @@ Created for "KOTRSI EVENT PLANNING STORE"
 ```
 # Project schema :
 ```
-|--- motion_detector.py : contains all the script logic.
-```
-|--- conf.json : contains the configuration of the project, you can add you DropBox store application token in it.
-```
-|--- image_upload_config
-```
-|    |--- __ init __.py
-```
-|    |--- tempimage.py : script that handles the uploading of images toward your specified directory on DropBox.
-```
-You can run the script by running : # python motion_detector.py --config conf.json
+|--- motion_detector.py : contains all the script logic.```
+|--- conf.json : contains the configuration of the project, you can add you DropBox store application token in it.```
+|--- image_upload_config```
+|    |--- __ init __.py```
+|    |--- tempimage.py : script that handles the uploading of images toward your specified directory on DropBox.```
+
+```You can run the script by running : # python motion_detector.py --config conf.json
 ```
 # The Conf.Json configuration is detailed below :
 ```
