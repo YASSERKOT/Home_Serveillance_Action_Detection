@@ -10,7 +10,7 @@ Created for "KOTRSI EVENT PLANNING STORE"
 ```
 |--- image_upload_config
 ```
-|    |--- __init__.py
+|    |--- __ init __.py
 ```
 |    |--- tempimage.py : script that handles the uploading of images toward your specified directory on DropBox.
 ```
